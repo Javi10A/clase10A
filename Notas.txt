@@ -1,0 +1,7 @@
+Taller 1: Nota 3.2
+    * Grado de estudiante no es de tipo double, este tipo de variable es para decimales. Debía ser String
+    * La variable de grado debía unicializarse en el renglón 7 donde fue creada. No asignarle el valor en la línea 11
+    * edad_de_estudiante debía solicitarse por teclado, lo que hizo fue pedir el dato de la variable "valor" (línea 9)
+    * En el mensaje que imprime por consola, debe dejar espacios antes o despues de las comillas para que el mensaje quede mejor presentado.
+    * Debido al error de la variable edad_de_estudiante, el mensaje por consola no funciona correctamente.
+    * En el archivo html tiene escrito   <scrip src="taller1.js"></scrip>. Le hace falta la letra t en script; esto quiere decir que no probó el programa antes de enviarlo.
