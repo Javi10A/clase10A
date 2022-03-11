@@ -9,4 +9,4 @@ var edad_de_estudiante //double
 var valor=prompt("ingrese su edad:");
 nombre_de_estudiante="Javier Zapata";
 gradoEstudiante="10A";
-console.log("Nombre de el estudiante"+ nombre_de_estudiante +"del grado" + gradoEstudiante +"tiene" + edad_de_estudiante + "años")
+console.log("Nombre de el estudiante " + nombre_de_estudiante + " del grado " + gradoEstudiante + " tiene " + edad_de_estudiante + "años ")
