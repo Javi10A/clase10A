@@ -5,3 +5,20 @@ Taller 1: Nota 3.2
     * En el mensaje que imprime por consola, debe dejar espacios antes o despues de las comillas para que el mensaje quede mejor presentado.
     * Debido al error de la variable edad_de_estudiante, el mensaje por consola no funciona correctamente.
     * En el archivo html tiene escrito   <scrip src="taller1.js"></scrip>. Le hace falta la letra t en script; esto quiere decir que no probó el programa antes de enviarlo.
+
+
+Taller 2: Nota 3
+    * La formula del area es lado * lado o lado^2. Lo que halló fue el perimetro
+    * El mensaje del resultado es poco claro.
+    * Linea 21, la operacion debía la suma de todos los lados, no solo dos
+    * No es el diametro del rectangulo es perimetro (linea 22)
+    * En general, los mensajes de respuesta no son como se solicita en el taller
+    * operacion en linea 31 debía elevarlo al cuadrado el radio
+    * operacion de linea 32 debía elevar al cubo el radio
+    * Linea 33, llamo la variable volumenC, y esta no existe
+    * Punto 4, mensajes de solicitud de datos, poco claros
+    * formula en linea 42 incompleta
+    * Punto 5, se escribe piscina
+    * Punto 5, mensaje de resultado nada claro.
+    * linea 56, el 22.000 es un decimal, debió ser 22000
+    * Punto 7, no mostró los resultados en consola. Quiere decir que nunca probó
