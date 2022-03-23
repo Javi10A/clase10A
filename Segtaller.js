@@ -53,7 +53,7 @@ var altoM;
 var anchoM;
 altoM=prompt("porfavor ingrese la altura de el muro");
 anchoM=prompt("porfavor ingrese el ancho de el muro");
-console.log(altoM*anchoM*22.000);
+console.log(altoM*anchoM*22000);
 // punto 7
 var longCM;
 var volumDC;
