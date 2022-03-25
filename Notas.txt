@@ -31,5 +31,5 @@ Taller 2: Nota 3
 
 Taller 3 (Recuperación): Nota 4 - De esa nota tomo 0.3 para que el taller 1 le quede 3.5 y el 3.7 restante, es la nota del taller dos. 
 ¿Están de acuerdo? Si/No
-Respuesta:
+Respuesta:Si
     * linea 45, no es la operacion que debía hacer, porque horas *1 = horas. Debía pasarla a minutos, es decir, horas *60 porque cada hora tiene 60 minutos. Así, 1hora = 60minutos, 2horas= 120minutos, etc.
