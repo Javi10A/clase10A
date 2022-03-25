@@ -1,3 +1,6 @@
+Javier zapata- angela delgado
+
+
 Taller 1: Nota 3.2
     * Grado de estudiante no es de tipo double, este tipo de variable es para decimales. Debía ser String
     * La variable de grado debía unicializarse en el renglón 7 donde fue creada. No asignarle el valor en la línea 11
@@ -22,3 +25,8 @@ Taller 2: Nota 3
     * Punto 5, mensaje de resultado nada claro.
     * linea 56, el 22.000 es un decimal, debió ser 22000
     * Punto 7, no mostró los resultados en consola. Quiere decir que nunca probó
+
+Taller 3 (Recuperación): Nota 4 - De esa nota tomo 0.3 para que el taller 1 le quede 3.5 y el 3.7 restante, es la nota del taller dos. 
+¿Están de acuerdo? Si/No
+Respuesta:
+    * linea 45, no es la operacion que debía hacer, porque horas *1 = horas. Debía pasarla a minutos, es decir, horas *60 porque cada hora tiene 60 minutos. Así, 1hora = 60minutos, 2horas= 120minutos, etc.
