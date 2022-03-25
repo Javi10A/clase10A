@@ -10,6 +10,9 @@ Taller 1: Nota 3.2
     * En el archivo html tiene escrito   <scrip src="taller1.js"></scrip>. Le hace falta la letra t en script; esto quiere decir que no probó el programa antes de enviarlo.
 
 
+Javier Zapata - Angela Delgado
+
+
 Taller 2: Nota 3
     * La formula del area es lado * lado o lado^2. Lo que halló fue el perimetro
     * El mensaje del resultado es poco claro.
