@@ -54,5 +54,5 @@ var horas;
 var cobro;
 var total;
 horas=prompt("porfavor ingrese el total de horas que demoro la clase");
-cobro= horas-
-total= horas
+cobro= horas-1
+
