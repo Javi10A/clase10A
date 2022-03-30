@@ -62,5 +62,6 @@ console.log(arreglo[0])
 arreglo[2]="BBDD"
 console.log(arreglo)
 //SOLUCION3
+console.shift("BBDD")
 arreglo.unshift("introduccion");
 console.log(arreglo)
