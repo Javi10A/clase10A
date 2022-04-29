@@ -56,12 +56,12 @@ crear un arreglo con los valores
 -tecnologia
 */
 //SOLUCION 1
-var arreglo=["analisis", "tecnologia", "desarrollo" ]
-console.log(arreglo[0])
+var arreglo=["analisis", "tecnologia", "desarrollo" ];
+console.log(arreglo[0]);
 //SOLUCION 2
-arreglo[2]="BBDD"
-console.log(arreglo)
+arreglo[2]="BBDD";
+console.log(arreglo);
 //SOLUCION3
-arreglo.pop()
-arreglo.unshift("introduccion")
-console.log(arreglo)
+arreglo.pop();
+arreglo.unshift("introduccion");
+console.log(arreglo);
