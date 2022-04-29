@@ -103,7 +103,10 @@ if(dia=="lunes"){
   console.log("hoy se come sancocho de gallina")
 }
   //12punto
-  var o
-  if(o=="vocal"){
+  var letra="a";
+  if(letra=="a"){
+    console.log("la letra es una vocal")
+  }else if(letra=="e","i","u","o"){ 
     console.log("la letra es una vocal")
   }
+  
