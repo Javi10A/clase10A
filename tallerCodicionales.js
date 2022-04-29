@@ -104,9 +104,6 @@ if(dia=="lunes"){
 }
   //12punto
   var letra="a";
-  if(letra=="a"){
+  if(letra=="a"||letra=="e"||letra=="i"||letra=="o"||letra=="u"){
     console.log("la letra es una vocal")
-  }else if(letra=="e","i","u","o"){ 
-    console.log("la letra es una vocal")
-  }
-  
+  } 
