@@ -106,4 +106,6 @@ if(dia=="lunes"){
   var letra="a";
   if(letra=="a"||letra=="e"||letra=="i"||letra=="o"||letra=="u"){
     console.log("la letra es una vocal")
-  } 
+}else if(letra=="0"||letra=="1"||letra=="2"||letra=="3"||letra=="4"||letra=="5") {
+  console.log("es un numero")
+}
