@@ -33,3 +33,18 @@ Taller 3 (Recuperación): Nota 4 - De esa nota tomo 0.3 para que el taller 1 le 
 ¿Están de acuerdo? Si/No
 Respuesta:Si
     * linea 45, no es la operacion que debía hacer, porque horas *1 = horas. Debía pasarla a minutos, es decir, horas *60 porque cada hora tiene 60 minutos. Así, 1hora = 60minutos, 2horas= 120minutos, etc.
+
+
+*************************************** Segundo periodo
+
+Taller 1: Nota 3.6
+    * Para el primer punto solo debía asignar la palabra "si" a la variable saludar
+    * Linea 16 debía valer más o igual a 18 para permitirle la entrada
+    * linea 34, los positivos son mayores que 0
+    * linea solo tiene el diferente de cero, no tiene negativo
+    * linea 40 no cumple con la condicion
+    * condiciones de linea 50 imcompletas, falta el =
+    * punto 6 no imprime lo que se desea
+    * punto 12, los numeros deben ser evaluados del 0 al 9 y no imprime mensaje en caso de ser consonante
+
+Enlace a examen: https://acortar.link/5UUBF0
