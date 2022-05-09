@@ -48,3 +48,15 @@ Taller 1: Nota 3.6
     * punto 12, los numeros deben ser evaluados del 0 al 9 y no imprime mensaje en caso de ser consonante
 
 Enlace a examen: https://acortar.link/5UUBF0
+
+Examen: Nota 4
+    * linea 20, debía ser "40"
+    * Linea 22, debía ser && no ||
+    * linea 24, es ==9 || <=
+    * linea 30, incorrecta
+    * linea 35, incorrecta
+    * linea 45, incorrecta
+    * punto 5, si recibe un valor diferente a los esperados, el algoritmo no sabrá que responder.
+    * punto 6, no suma puntos porque:
+        + linea 70, condicion mala
+        + no suma el domicilio ni la instalación de cada tv
