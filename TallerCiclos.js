@@ -81,3 +81,16 @@ while(intentos < 10){
     console.log("va en el intento  " + intentos);
     CantR += 1
 }
+//Punto Bonus(1.0) Diseñe un algoritmo para los maestros que reciba el nombre y n cantidad de notas de un estudiante. Halle el promedio de esas notas y, según el resultado, muestre un mensaje indicando que el estudiante nombreEstudiante ganó o perdió la asignatura y su nota final.
+var notaES=prompt("porfavor ingrese la nota de el estudiante")
+var estu=prompt("porfavor ingrese el nombre de el estudiante")
+var promedio
+while(notaES < 5){
+    console.log("vamos por la nota "+ notaES)
+    notaES+=1
+}
+while(estu < 10){
+    console.log("la nota de el estudiante es "+ notaES)
+    promedio= notaES
+    estu+=1
+}
