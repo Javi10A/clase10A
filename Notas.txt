@@ -49,7 +49,7 @@ Taller 1: Nota 3.6
 
 Enlace a examen: https://acortar.link/5UUBF0
 
-Examen: Nota 4
+Examen condicionales: Nota 4
     * linea 20, debía ser "40"
     * Linea 22, debía ser && no ||
     * linea 24, es ==9 || <=
@@ -60,3 +60,27 @@ Examen: Nota 4
     * punto 6, no suma puntos porque:
         + linea 70, condicion mala
         + no suma el domicilio ni la instalación de cada tv
+
+Taller while: nota 3.2
+    * linea 11, debía ir hasta el 30
+    * linea 12, no imprime nada util para el usuario
+    * linea 29, debía ir hasta el 50
+    * linea 31, ¿cómo así ese mensaje?
+    * linea 32, la variable CantSaludos viene con el valor del punto anterior
+    * linea 33, no tiene sentido lo que imprime
+    * linea 61, debe cambiar el mensaje, no tiene relacion con lo que entrega
+    * linea 68, ese ciclo no se ejecuta ya que la variable vale 10 y 10 no es menor que 10
+    * Punto de la rifa no funciona
+    * punto bonus, no funciona
+
+Examen while: nota 2.3
+    * linea 59, la variable cajero vale 0 y siempre vale 0. El cliente no obtiene decuento en ningun caso
+    * lineas 73, 77 deben ser con && no con ||
+    * linea 75, no es 0,9 es 0.9
+    * las operaciones del decuento no deben sumarle el precio
+    * ultimo punto, el limite del ciclo no es la cantidad de estudiantes sino de notas
+    * linea 107, qué hace not? su valor es nulo siempre
+    * prom, no guarda el promedio acumulado del curso, solamente el "promedio" de ultima nota que se ingrese
+    * condicionales desde la 112, siempre va a entrar al else
+    * linea 114, hace referencia a una variable que no existe
+    * En todos los casos de abre curso de verano

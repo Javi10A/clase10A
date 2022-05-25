@@ -7,7 +7,7 @@ while(CantR < 7){
 }
 //Diseñe un ciclo while cuyo incremento vaya de tres en tres e imprima los múltiplos de 3 desde el 0 hasta el 30.
 var Cant = 0; 
- 
+
 while(Cant < 11){
     console.log("3 en 3");
     Cant += 3
