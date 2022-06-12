@@ -84,3 +84,5 @@ Examen while: nota 2.3
     * condicionales desde la 112, siempre va a entrar al else
     * linea 114, hace referencia a una variable que no existe
     * En todos los casos de abre curso de verano
+
+ciclo for: Nota ***no subió taller ciclo for***
