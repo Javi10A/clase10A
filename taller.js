@@ -31,6 +31,16 @@ btonRespuestas.addEventListener("click",function(){
     }
     
 })
+let intentos =  0
 btonVer.addEventListener("click", function (){
+    if(input1.value == intentos){
+    input1.placeholder="3"
+    }
+    if(input2.value == intentos){   
+    input2.placeholder="36"
+    }
+    if(input3.value == intentos){
+        input3.placeholder="6"
+    }
 
 })
